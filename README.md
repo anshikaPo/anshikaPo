@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @anshikaPorwal
-- 👀 I’m interested in Data Analysis
+- 👋 Hi, I’m @anshikaPorwal budding analyst
+- 👀 I’m interested in Solving business problems
 - 🌱 I’m currently learning Microsoft Fabric
 - 💞️ I’m looking to collaborate on Industry Project
 - 📫 How to reach me :- mailid:- anshikaporwal@gmail.com, Likedin:- www.linkedin.com/in/anshikadata-analyst
