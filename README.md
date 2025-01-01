@@ -6,7 +6,7 @@
 
 
 - 😄 Pronouns: ...she/her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...  I love giving simplistic explanation to Problems
 
 <!---
 anshikaPo/anshikaPo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
